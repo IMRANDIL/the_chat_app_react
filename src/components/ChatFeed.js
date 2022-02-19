@@ -1,4 +1,4 @@
-
+import React from "react";
 import MessageForm from "./MessageForm";
 
 import TheirMessage from "./TheirMessage";
